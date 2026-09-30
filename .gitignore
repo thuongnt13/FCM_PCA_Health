@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Môi trường ảo
+venv/
+env/
+.venv/
+
+# Thư mục IDE
+.vscode/
+.idea/
+
+# File tạm hệ điều hành
+.DS_Store
+Thumbs.db
